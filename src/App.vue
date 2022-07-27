@@ -16,7 +16,11 @@
           placeholder="Please enter your username..."
         />
         <div class="d-flex justify-content-center mt-4">
-          <input type="submit" value="Login" class="btn btn-primary" />
+          <input
+            type="submit"
+            value="Login"
+            class="btn btn-primary text-offwhite"
+          />
         </div>
       </div>
     </form>
