@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+/* FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&display=swap');
+@import 'custom-bootstrap';
+
+$primary: #0F9B8E;
+$secondary: #03719C;
+$danger: blue;
+$dark: #343837;
+
+* {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  scroll-padding-top: 2rem;
+  box-sizing: border-box;
+}
+:root {
+  --primary: #0F9B8E;
+  --secondary: #03719C;
+  --danger: blue;
+  --dark: #343837;
+  --offwhite: #FAF9F6;
+}
+
